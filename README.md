@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning next.js
 - 📫 You can reach me at my email: a.suleman3757@gmail.com, if you work together or colaborate on a project
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Besides being a software engineer, I am a sports person as well representing my university at a varsity badminton tournament. I also play cricket, love war documentaries and geopolitical history of multiple parts of the world.
+- ⚡ Fun fact: Besides being a software engineer, I am a sports person as well, representing my university at a varsity badminton tournament. I also play cricket, love war documentaries and geopolitical history of multiple parts of the world.
 - Check out my portfolio at https://sulemanaliasif.netlify.app/
 <!---
 SulemanAli-Asif/SulemanAli-Asif is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
